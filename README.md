@@ -1,12 +1,4 @@
-<img width="654" height="521" alt="WHOIS" src="https://github.com/user-attachments/assets/9b279ff3-330f-4250-83d3-f1736b72b39d" /><img width="654" height="521" alt="WHOIS" src="https://github.com/user-attachments/assets/195bf915-d0c9-4262-8168-13e249b79d40" /># 🔍 NETWORKWALKS – WEEK 2: FOOTPRINTING & NETWORK SCANNING
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Networkwalks-Cybersecurity-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Internship-Week%2002-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-</p>
-
-<p align="center">
   <b>Cybersecurity & Ethical Hacking Internship</b><br>
   Practical Report – Footprinting, Reconnaissance and Network Scanning
 </p>
